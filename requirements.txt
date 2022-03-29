@@ -1,6 +1,1 @@
-certifi==2021.10.8
-imageai==2.1.6
-keras-resnet==0.2.0
-opencv-python==4.5.1.48
 pygame==2.1.2
-wincertstore==0.2
